@@ -40,9 +40,7 @@ Publications
 
 <ul>
   <li>
-    <strong>Feature-Disentangling RGB-NIR Fusion Network for Remote Driver Physiological Measurement</strong><br>
-    Tayssir Bouraffa, Ziyuan Wang, Daniel Strüber. (To appear in WACV 2026) <br>
-    <a href="https://stanwang218.github.io/files/WACV_2026_camera-ready.pdf">链接</a>
+    <a href="https://stanwang218.github.io/files/WACV_2026_camera-ready.pdf"> <strong>Feature-Disentangling RGB-NIR Fusion Network for Remote Driver Physiological Measurement</strong><br><br></a> Tayssir Bouraffa, Ziyuan Wang, Daniel Strüber. (To appear in WACV 2026) 
   </li>
 
   <!-- <li>
