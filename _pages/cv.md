@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Chalmers University of Technology 2026-now (expected)
+* Ph.D in Chalmers University of Technology 2026-now 
 * M.S. in Chalmers University of Technology, 2023-2025
 * B.S. in Beijing Univerity of Chemical Technology, 2019-2023
 
@@ -41,8 +41,8 @@ Publications
 <ul>
   <li>
     <strong>Feature-Disentangling RGB-NIR Fusion Network for Remote Driver Physiological Measurement</strong><br>
-    Tayssir Bouraffa, Ziyuan Wang, Daniel Strüber <br>
-    <!-- <a href="https://arxiv.org/abs/xxxx.xxxxx">链接</a> -->
+    Tayssir Bouraffa, Ziyuan Wang, Daniel Strüber. (To appear in WACV 2026) <br>
+    <a href="https://stanwang218.github.io/files/WACV_2026_camera-ready.pdf">链接</a>
   </li>
 
   <!-- <li>

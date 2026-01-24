@@ -23,12 +23,12 @@ repository               : "stanwang218.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "files/avatar.png"
+  avatar           : "https://stanwang218.github.io/files/avatar.png"
   name             : "Ziyuan Wang"
   pronouns         : # example: "she/her"  
   bio              : "PHD student at CTH(Chalmers University of Technology)"
   location         : "Sweden"
-  employer         : "CTH"
+  employer         : "Chalmers"
   uri              : # URL
   email            : "wangzi@chalmers.se" 
 
@@ -51,13 +51,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/Stanwang218"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
