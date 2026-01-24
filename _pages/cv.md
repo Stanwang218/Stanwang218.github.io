@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Chalmers University of Technology 2026-now 
 * M.S. in Chalmers University of Technology, 2023-2025
-* B.S. in Beijing Univerity of Chemical Technology, 2019-2023
+* B.S. in Beijing University of Chemical Technology, 2019-2023
 
 Work experience
 ======

@@ -11,6 +11,8 @@ This is Ziyuan Wang's home on the web!
 
 I am currently a PHD student from Chalmers Univerisity of Technology in [Healthy AI Lab](https://www.healthyai.se), under the supervision of [Fredrik Johansson](https://www.healthyai.se/people/fredrik). My focus in on tabular data model, including foundation tabular models, along with its generalisation, robustnes and etc. 
 
+I have finished my bachelor degree at Beijing University of Chemical Technology(BUCT), in the major of Computer Science and Engineering. Then, I moved to Sweden to start my master degree, in the program of MPDSC(Master Program Data Science and AI). During the study, I was a research assistant under the supervision of [Tayssir Bouraffa](https://scholar.google.com/citations?user=FcLMmzUAAAAJ&hl=fr) and [Daniel Strüber](https://scholar.google.com/citations?user=QidV_04AAAAJ&hl=de). Regarding my master thesis, I was supervised by [Ahmet Balcioglu](https://selozhd.github.io) in [Healthy AI Lab](https://www.healthyai.se). The thesis is about generalisibility of representation, which can be found [here](https://odr.chalmers.se/items/812cb703-a1e1-44ad-8fa5-4093f9f46558).
+
 <!-- 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
